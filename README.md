@@ -1,0 +1,1 @@
+# HB-Inheritance-Table-per-class
